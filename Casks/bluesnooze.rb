@@ -1,9 +1,9 @@
 cask "bluesnooze" do
   name "Bluesnooze"
-  version "v1.0"
+  version "v1.1"
   homepage "https://github.com/odlp/bluesnooze"
   app "Bluesnooze.app"
 
-  sha256 "39ee3429c63fcfb733507b68a6ac033b6bdd45168b4b5ec8e62ab61963c191cf"
+  sha256 "377badb146885f71eb3aeae25036c4ef00b0a6c2a1627b575f54dfbc4569bfb1"
   url "https://github.com/odlp/bluesnooze/releases/download/#{version}/Bluesnooze.zip"
 end
